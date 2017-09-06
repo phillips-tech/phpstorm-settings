@@ -1,5 +1,12 @@
-<scheme name="Earthsong" version="142" parent_scheme="Default">
+<scheme name="Earthsong copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2017-09-06T10:01:22</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2017.2.3.0.0</property>
+    <property name="modified">2017-09-06T10:02:52</property>
+    <property name="originalScheme">Earthsong</property>
+  </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
@@ -109,7 +116,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="36040a" />
+        <option name="BACKGROUND" value="36312c" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
@@ -565,7 +572,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="494901" />
+        <option name="BACKGROUND" value="36312c" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
